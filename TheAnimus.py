@@ -6,7 +6,7 @@
 #2 x 6 roll special action per mood.
 #1.1 added legendary item limit. one char can never get the same item twice.
 #if for any reason he gets all the items in the list everybody in The Animus universe will instantly die and the game will end.
-#------------------------------------
+#-----------------------------------
 #1.2 added kill count to characters
 #1.3 when a player gets a legendary item it's removed from the list
 #1.4 when a player dies if he had an item in his inventory it will automatically go to the new winner

@@ -5,12 +5,16 @@ legendary_items = [ "Death Note", "Future Diary", "The Treasured Tools of the Sa
 
 ways_to_die = ["had A Heart Attack...", "ass got kamehame'd...", 
 "used the technique that returned Kurama to a younger age in order to beat him as an inexperienced child. Little did he know, Kurama was a fucking beast in his prime...",
-"'s head got smashed!", "got attacked by blackbeard crew and died... ", "gets captured by Akane. Akane slits her throat..."
+"'s head got smashed!", "got attacked by blackbeard crew and died... ", "gets captured by Akane. Akane slits her throat...", "called Deidara a girl.A huge explosion has happened...",
+"tried to take L's cake. L then hurtled a booger from his nose that created a deadly chain reaction...", "tried to take Naruto's ramen...", "scared Picachu. Picachu fried the hell out of that poor soul...",
+"tried to snatch Luffy's lunch...", "tried to steal money from Nami...", "tried to destroy the earth. Unfortunatelly Son Goku was watching...", "got super poked...", "trusted a yandere with pink hair...",
+"was eaten by a titan." 
 ]
 
 powerup = ["screams in rage and ascends to SSJ2!!!", "rages and his arm is transformed into an Angel Arm!!!", "is consumed by rage and nen transforms him into an adult!!!", 
 "opens the 8th gate of death!!!", "goes into  Sage mode and summons the 1000 hands of buddah!!!", "eats 18 and becomes perfect!!!", "uses both hands to cut down his enemy!!!",
-"rages and gathers ki. Turns into SSJ2 and releases an instant ki flash!!!", "reflects and meditates. He can now cut nothing!!!", "goes into gear 4!!!", "uses fire breath and turns into dragon!!!"
+"rages and gathers ki. Turns into SSJ2 and releases an instant ki flash!!!", "reflects and meditates. He can now cut nothing!!!", "goes into gear 4!!!", "uses fire breath and turns into dragon!!!",
+"activates Gear Four!!!", "is unleashing his Jajanken!!!", "activates God of conquest mode!!!"
 ]
 
 
@@ -32,6 +36,7 @@ enter = ["looking hot as hell", "is ready to kick ass!", "is feeling paranoid", 
 "slips on a banana peel.", "'s skin is crawling...", "gambles with lives, happiness, and even destiny itself!", "is like a fashion icon lay down on the riverbed.", "'s pants are already full of pee...",
 "'s getting all fired up!", "enter's the game but  doesn't look very coherent."
 ]
+
 
 playerdir = { 
 "Player1" : "http://i.imgur.com/68jKje0.gif",
